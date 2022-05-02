@@ -9,4 +9,4 @@
     $> ls | cat -e
     Output =
     a.out$
-    main.c&
+    main.c$
